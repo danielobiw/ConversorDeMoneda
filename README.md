@@ -11,7 +11,7 @@ Este proyecto consiste en un conversor de moneda elaborado con lenguaje de progr
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: La principal función de la aplicación es convertir unas cuantas monedas latinoamericanas en dólares y viceversa.
-- `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa desde dolares a cualquiera de las otras monedas mencionadas.
+- `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa desde dólares a cualquiera de las otras monedas mencionadas.
 - `Funcionalidad 2`: En caso de no necesitar realizar más operaciones, el menú dispone de una opción para salir y cerrar la aplicación.
 
 ## ▶️Intrucciones de uso
