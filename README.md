@@ -11,11 +11,18 @@ Este proyecto consiste en un conversor de moneda elaborado con lenguaje de progr
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: La principal función de la aplicación es convertir unas cuantas monedas latinoamericanas en dólares y viceversa.
-- `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa.
+- `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa desde dolares a cualquiera de las otras monedas mencionadas.
 - `Funcionalidad 2`: En caso de no necesitar realizar más operaciones, el menú dispone de una opción para salir y cerrar la aplicación.
 
-## ▶️Demostración
-
+## ▶️Intrucciones de uso
+1.	Al ejecutar el programa, se muestra un menú en consola con las opciones de conversión disponibles.
+2.	El menú tiene 8 opciones diferentes de conversión de moneda y la opción 9 para terminar las operaciones y cerrar la aplicación.
+3.	El usuario debe digitar la opción de su preferencia y presionar la tecla ‘enter’ para continuar.
+4.	Después de seleccionar cualquiera de las opciones entre 1 y 8, se le pregunta al usuario el monto que desea convertir.
+5.	El usuario debe ingresar la cantidad de la moneda a convertir, presionar la tecla ‘enter’ y esperar el resultado de la operación.
+6.	Finalmente, en la consola, se muestra el resultado de la conversión dependiendo de la moneda seleccionada y el valor ingresado.
+7.	Después de ver el resultado, el usuario puede repetir el proceso cuantas veces lo desee o puede salir de la aplicación digitando la opción 9 y luego ‘enter’ para confirmar.
+8.	Al seleccionar la opción 9, la aplicación termina su ejecución.
 
 ## 📁 Acceso al proyecto
 Para acceder al proyecto se pueden seguir los siguientes pasos:
@@ -39,7 +46,6 @@ Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
 
 ## 🧑‍🦱 Autor
 [Daniel Gaviria](https://github.com/danielobiw)
-| [<sub>Daniel Gaviria</sub>](https://github.com/danielobiw) | :---: |
 
 ## 📆 Fecha de inicio del proyecto
 Octubre 2024.
