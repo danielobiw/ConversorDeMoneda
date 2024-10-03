@@ -14,7 +14,7 @@ Este proyecto consiste en un conversor de moneda elaborado con lenguaje de progr
 - `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa.
 - `Funcionalidad 2`: En caso de no necesitar realizar más operaciones, el menú dispone de una opción para salir y cerrar la aplicación.
 
-## ▶️:Demostración
+## ▶️Demostración
 
 
 ## 📁 Acceso al proyecto
@@ -38,9 +38,8 @@ Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
 4.	Entorno de desarrollo Intellij IDEA Community Edition 2024.
 
 ## 🧑‍🦱 Autor
-Daniel Gaviria
-https://github.com/danielobiw
-[<sub>Daniel Gaviria</sub>](https://github.com/danielobiw) | :---: |
+Daniel Gaviria(https://github.com/danielobiw)
+| [<sub>Daniel Gaviria</sub>](https://github.com/danielobiw) | :---: |
 
 ## 📆 Fecha de inicio del proyecto
 Octubre 2024.
