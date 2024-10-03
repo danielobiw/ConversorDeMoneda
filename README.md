@@ -5,7 +5,7 @@
 ## 🗒️ Descripción del Proyecto
 Este proyecto consiste en un conversor de moneda elaborado con lenguaje de programación Java que consume una API y ofrece unas cuantas y limitadas alternativas de conversión.
 
-## Estado del Proyecto
+## 🚧 Estado del Proyecto
 :construction: Proyecto en construcción :construction:
 
 ## :hammer:Funcionalidades del proyecto
