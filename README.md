@@ -1,9 +1,9 @@
 <h1 align="center"> Conversor de moneda de Daniel </h1>
 
-![Badge En Desarrollo ](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge en Desarrollo ](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ## Descripción del Proyecto
-<p>Este proyecto consiste en un conversor de moneda elaborado con lenguaje de programación Java que consume una API y ofrece unas cuantas y limitadas alternativas de conversión.</p>
+Este proyecto consiste en un conversor de moneda elaborado con lenguaje de programación Java que consume una API y ofrece unas cuantas y limitadas alternativas de conversión.
 
 ## Estado del Proyecto
 :construction: Proyecto en construcción :construction:
@@ -12,9 +12,12 @@
 
 - `Funcionalidad 1`: La principal función de la aplicación es convertir unas cuantas monedas latinoamericanas en dólares y viceversa.
 - `Funcionalidad 1a`: Se pueden convertir pesos colombianos, pesos argentinos, pesos chilenos y reales brasileños a dólares. También se puede realizar la operación inversa.
-- `Funcionalidad 3`: En caso de no necesitar realizar más operaciones, el menú dispone de una opción para salir y cerrar la aplicación.
+- `Funcionalidad 2`: En caso de no necesitar realizar más operaciones, el menú dispone de una opción para salir y cerrar la aplicación.
 
-## \ 📁 Acceso al proyecto
+## :hammer:Demostración
+
+
+## 📁 Acceso al proyecto
 Para acceder al proyecto se pueden seguir los siguientes pasos:
 1.	Abrir la url https://github.com/danielobiw/ConversorDeMoneda
 2.	Click en el botón verde que dice “<>CODE”.
@@ -24,7 +27,7 @@ Para acceder al proyecto se pueden seguir los siguientes pasos:
 6.	Desde el entorno de desarrollo, buscar el archivo descomprimido en la ruta donde se guardó.
 7.	Seleccionar el archivo y abrirlo.
 
-## \ 🛠️ Abrir y ejecutar el proyecto
+## 🛠️ Abrir y ejecutar el proyecto
 Después de abrir el proyecto en el entorno de desarrollo de preferencia y ver el código en pantalla, hay que dar click en el botón “RUN” para ejecutar el programa y verlo en funcionamiento en la consola.
 
 ## Tecnologías utilizadas
@@ -36,11 +39,6 @@ Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
 
 ## Autores
 
-|  |
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | :---: |
-
-
-
+| [<img src="E:\SENA\Cursos Oracle Next Education (ONE)\Material\Solución Challenge One Convertidor de monedas\foto.png" width=115><br><sub>Daniel Gaviria</sub>](https://github.com/danielobiw) | :---: |
 
 
