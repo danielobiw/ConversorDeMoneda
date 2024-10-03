@@ -38,7 +38,7 @@ Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
 4.	Entorno de desarrollo Intellij IDEA Community Edition 2024.
 
 ## 🧑‍🦱 Autor
-Daniel Gaviria(https://github.com/danielobiw)
+[Daniel Gaviria](https://github.com/danielobiw)
 | [<sub>Daniel Gaviria</sub>](https://github.com/danielobiw) | :---: |
 
 ## 📆 Fecha de inicio del proyecto
