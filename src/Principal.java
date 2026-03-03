@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args) {
 
-        String apikey = "TU_API_KEY_AQUI";  // <-- INGRESA LA CLAVE O APIKEY DE ExchangeRate-API AQUÍ
+        String apikey = "TU_API_KEY_AQUI";  // <-- INGRESA LA CLAVE O API-KEY DE ExchangeRate-API AQUÍ
         String moneda_origen = "";
         String moneda_objetivo = "";
         int valor_a_convertir = 1;
